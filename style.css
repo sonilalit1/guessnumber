@@ -1,0 +1,13 @@
+#mycount{
+    margin-left: 120px;
+    margin-top: 20px;
+    color: black;
+    font-size: x-large;
+    font-weight: 800;
+}
+.btn{
+    width: 100px;
+    height: 50px;
+    color: aqua;
+    background-color: blue;
+}
